@@ -616,12 +616,7 @@ label {
 }
 
 
-.animate-first {
-    -webkit-animation-delay: 0;
-    -moz-animation-delay: 0;
-    -o-animation-delay: 0;
-    animation-delay: 0;
-}
+
 
 .animate-second {
     -webkit-animation-delay: 500ms;
@@ -769,7 +764,7 @@ label {
     padding: 20px;
     width: 80%;
     border: 4px solid black;
-    text-align: l
+    text-align:
 }
 
 /*
